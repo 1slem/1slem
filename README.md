@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=1slem" alt="1slem" /></a> </p>
 
-- 🌱 I’m currently learning **Web development**
-
 - 📫 How to reach me **Bengirchislem@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
