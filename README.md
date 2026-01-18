@@ -43,6 +43,14 @@ Currently deepening my knowledge in Big Data, metadata management, and AI-assist
 ![](https://nirzak-streak-stats.vercel.app/?user=1slem&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1slem&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+### 🐍 Contribution Snake:
+![Snake animation](https://raw.githubusercontent.com/1slem/1slem/output/github-contribution-grid-snake-dark.svg)
+
+### 📈 Contribution Graph:
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1slem&theme=high-contrast&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=1slem&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
