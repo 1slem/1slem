@@ -3,7 +3,26 @@
 # 💫 ISLEM BEN GRICH:
 📊 Data Analyst | Business Intelligence | Data Visualization<br>
 
+# 💫 About Me:
+<br>
+👋 Hi, I'm Islem Ben Grich  
 
+🎓 Second-year Master's student in *Ingénierie des Systèmes d'Information et des Connaissances* at FSEG Nabeul  
+📊 Passionate about Business Intelligence, Data Analytics, and data-driven decision-making  
+
+I have a solid background in Information Technology with hands-on experience in:
+- ETL pipeline development  
+- Data visualization & dashboard design  
+- Data analysis and reporting  
+
+🛠️ Tools & Technologies: Python, SQL, Power BI, Data Warehousing concepts  
+
+I enjoy transforming raw data into actionable insights that create real business value.  
+Currently deepening my knowledge in Big Data, metadata management, and AI-assisted analytics.
+
+🎯 Career goal: Become a BI Consultant and Data Analyst capable of designing intelligent, scalable, and impactful data solutions.
+
+🤝 Always open to collaboration, new opportunities, and knowledge sharing.
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/621835231640551424) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/Slouma.grich/) 
