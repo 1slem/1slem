@@ -44,10 +44,6 @@ Currently deepening my knowledge in Big Data, metadata management, and AI-assist
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=1slem&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-### 🐍 Contribution Snake:
-<div align="center">
-  <img src="https://raw.githubusercontent.com/1slem/1slem/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
 ### 📈 Contribution Graph:
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=1slem&theme=high-contrast&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
